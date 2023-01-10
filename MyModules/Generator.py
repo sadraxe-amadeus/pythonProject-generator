@@ -8,7 +8,7 @@ number = 0
 count = 0
 password = []
 
-length = input("پسوردت چقدر خفن باشه(چند کاراکتر)؟ (default 128)\n")
+length = input("پسوردت چقدر خفن باشه(چند کاراکتر)!؟ (default 128)\n")
 length = 128 if length is '' else int(length)
 
 
